@@ -1,10 +1,11 @@
 <h3 align="center">PORTFOLIO</h3>
-
-<ul><a href="#Kill-The-Robots-AR">Kill The Robots AR</a></ul>
-<ul><a href="#NEVER-ENDING-SURVIVAL">NEVER ENDING SURVIVAL</a></ul>
-<ul><a href="#Burger-Refund">BurgerRefund</a></ul>
-
-<h1>Kill The Robots AR</h1>
+<ul>
+  <li><a href="#Kill-The-Robots-AR">Kill The Robots AR</a></li>
+  <li><a href="#NEVER-ENDING-SURVIVAL">NEVER ENDING SURVIVAL</a></li>
+  <li><a href="#Burger-Refund">BurgerRefund</a></li>
+</ul>
+  
+#Kill The Robots AR
 #### I made this game with 2 of my friends for the final project of the Game Programming Class at University.
 #### We used ARFoundation package for the AR framework.
 
