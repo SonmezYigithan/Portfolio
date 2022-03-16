@@ -41,13 +41,13 @@ I was responsible for
 
 <div class="row" style="content: "";  clear: both;  display: table;">
   <div class="column" style="float: left;  width: 33.33%;  padding: 5px;">
-    <img src="img_snow.jpg" alt="Snow" style="width:100%">
+    <img src="https://i.imgur.com/3zOk9O1.png" alt="Snow" style="width:100%">
   </div>
   <div class="column" style="float: left;  width: 33.33%;  padding: 5px;">
-    <img src="img_forest.jpg" alt="Forest" style="width:100%">
+    <img src="https://i.imgur.com/3zOk9O1.png" alt="Forest" style="width:100%">
   </div>
   <div class="column" style="float: left;  width: 33.33%;  padding: 5px;">
-    <img src="img_mountains.jpg" alt="Mountains" style="width:100%">
+    <img src="https://i.imgur.com/3zOk9O1.png" alt="Mountains" style="width:100%">
   </div>
 </div>
 
