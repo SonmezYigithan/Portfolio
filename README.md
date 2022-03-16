@@ -39,7 +39,17 @@ I was responsible for
 
 <a href="https://itch.io/jam/iztech-hyperjam/rate/974266"><img src="https://img.itch.zone/aW1hZ2UvOTc0MjY2LzU1MzI3OTEucG5n/original/Sc7Xu%2B.png" alt="Game Over"  style="float: left; width: 30%; margin-right: 1%; margin-bottom: 0.5em;"></a>
 
-<p style="clear: both;">
+<div class="row" style="content: "";  clear: both;  display: table;">
+  <div class="column" style="float: left;  width: 33.33%;  padding: 5px;">
+    <img src="img_snow.jpg" alt="Snow" style="width:100%">
+  </div>
+  <div class="column" style="float: left;  width: 33.33%;  padding: 5px;">
+    <img src="img_forest.jpg" alt="Forest" style="width:100%">
+  </div>
+  <div class="column" style="float: left;  width: 33.33%;  padding: 5px;">
+    <img src="img_mountains.jpg" alt="Mountains" style="width:100%">
+  </div>
+</div>
 
 # Burger Refund
 #### Burger Refund made for <a href="https://itch.io/jam/atom-gamejam" target="_blank">Atom Game Jam 2020</a> with Unity in 2 days
