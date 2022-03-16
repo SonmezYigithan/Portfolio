@@ -30,7 +30,7 @@
 #### We used ARFoundation package for the AR framework.
 
 ### I was responsible for 
-* Rhythm Game Inspired Enemy Fighting Mechanic</ul>
+* Rhythm Game Inspired Enemy Fighting Mechanic
 * Some Animations
 * UI Menu Design
 
