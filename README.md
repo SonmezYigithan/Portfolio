@@ -1,20 +1,21 @@
-<h3 align="center">PORTFOLIO</h3>
-<ul>
-  <li><a href="#Kill-The-Robots-AR">Kill The Robots AR</a></li>
-  <li><a href="#NEVER-ENDING-SURVIVAL">NEVER ENDING SURVIVAL</a></li>
-  <li><a href="#Burger-Refund">BurgerRefund</a></li>
-</ul>
+<h1 align="center">PORTFOLIO</h1>
+
+
+* <a href="#Kill-The-Robots-AR">Kill The Robots AR</a></li>
+* <a href="#NEVER-ENDING-SURVIVAL">NEVER ENDING SURVIVAL</a></li>
+* <a href="#Burger-Refund">BurgerRefund</a></li>
+
   
 #Kill The Robots AR
 #### I made this game with 2 of my friends for the final project of the Game Programming Class at University.
 #### We used ARFoundation package for the AR framework.
 
-I was responsible for 
-<ul>Boss AI</ul>
-<ul>Enemy Spawn Mechanic</ul>
-<ul>Shooting Mechanic</ul>
-<ul>Shooting and Enemy Movement Animation</ul>
-<ul>UI Menu Design</ul>
+## I was responsible for 
+* Boss AI
+* Enemy Spawn Mechanic
+* Shooting Mechanic
+* Shooting and Enemy Movement Animation
+* UI Menu Design
 
 <a href="https://play.google.com/store/apps?gl=TR" target="_blank">PLAY (Coming soon on Play Store)</a>
 
