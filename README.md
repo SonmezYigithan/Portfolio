@@ -32,17 +32,13 @@ I was responsible for
 
 ## <a href="https://itch.io/jam/iztech-hyperjam/rate/974266" target="_blank">PLAY (itch.io)</a>
 
-<div class="row">
-  <div class="column">
-    <a href="https://itch.io/jam/iztech-hyperjam/rate/974266"><img src="https://i.imgur.com/3zOk9O1.png" alt="Main Menu"  style="float: left; width: 30%; margin-right: 1%; margin-bottom: 0.5em;"></a>
-  </div>
-  <div class="column">
-    <a href="https://itch.io/jam/iztech-hyperjam/rate/974266"><img src="https://img.itch.zone/aW1hZ2UvOTc0MjY2LzU1MzI3OTIucG5n/original/R%2B4Q7K.png" alt="In Game"  style="float: left; width: 30%; margin-right: 1%; margin-bottom: 0.5em;"></a>
-  </div>
-  <div class="column">
-    <a href="https://itch.io/jam/iztech-hyperjam/rate/974266"><img src="https://img.itch.zone/aW1hZ2UvOTc0MjY2LzU1MzI3OTEucG5n/original/Sc7Xu%2B.png" alt="Game Over"  style="float: left; width: 30%; margin-right: 1%; margin-bottom: 0.5em;"></a>
-  </div>
-</div>
+
+<a href="https://itch.io/jam/iztech-hyperjam/rate/974266"><img src="https://i.imgur.com/3zOk9O1.png" alt="Main Menu"  style="float: left; width: 30%; margin-right: 1%; margin-bottom: 0.5em;"></a>
+
+<a href="https://itch.io/jam/iztech-hyperjam/rate/974266"><img src="https://img.itch.zone/aW1hZ2UvOTc0MjY2LzU1MzI3OTIucG5n/original/R%2B4Q7K.png" alt="In Game"  style="float: left; width: 30%; margin-right: 1%; margin-bottom: 0.5em;"></a>
+
+<a href="https://itch.io/jam/iztech-hyperjam/rate/974266"><img src="https://img.itch.zone/aW1hZ2UvOTc0MjY2LzU1MzI3OTEucG5n/original/Sc7Xu%2B.png" alt="Game Over"  style="float: left; width: 30%; margin-right: 1%; margin-bottom: 0.5em;"></a>
+
 
 # Burger Refund
 #### Burger Refund made for <a href="https://itch.io/jam/atom-gamejam" target="_blank">Atom Game Jam 2020</a> with Unity in 2 days
