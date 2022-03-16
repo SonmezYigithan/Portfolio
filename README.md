@@ -27,7 +27,7 @@
 
 # NEVER ENDING SURVIVAL
 #### I made this game with 2 of my friends for the <a href="https://itch.io/jam/iztech-hyperjam/rate/974266" target="_blank"> IZTECH HyperJam Game Hackathon 2021 </a> 
-#### We used ARFoundation package for the AR framework.
+#### Made with Unity
 
 ### I was responsible for 
 * Rhythm Game Inspired Enemy Fighting Mechanic
