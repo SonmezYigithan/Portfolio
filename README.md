@@ -10,7 +10,7 @@
 #### I made this game with 2 of my friends for the final project of the Game Programming Class at University.
 #### We used ARFoundation package for the AR framework.
 
-## I was responsible for 
+### I was responsible for 
 * Boss AI
 * Enemy Spawn Mechanic
 * Shooting Mechanic
