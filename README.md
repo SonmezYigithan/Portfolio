@@ -29,13 +29,13 @@
 #### I made this game with 2 of my friends for the <a href="https://itch.io/jam/iztech-hyperjam/rate/974266" target="_blank"> IZTECH HyperJam Game Hackathon 2021 </a> 
 #### We used ARFoundation package for the AR framework.
 
-I was responsible for 
-<ul>Rhythm Game Inspired Enemy Fighting Mechanic</ul>
-<ul></ul>
-<ul>UI Menu Design</ul>
+### I was responsible for 
+* Rhythm Game Inspired Enemy Fighting Mechanic</ul>
+* Some Animations
+* UI Menu Design
 
-## <a href="https://youtu.be/kKNkphkAlc8" target="_blank"> GAMEPLAY VIDEO </a>
-## <a href="https://itch.io/jam/iztech-hyperjam/rate/974266" target="_blank">PLAY (itch.io)</a>
+### <a href="https://youtu.be/kKNkphkAlc8" target="_blank"> GAMEPLAY VIDEO </a>
+### <a href="https://itch.io/jam/iztech-hyperjam/rate/974266" target="_blank">PLAY (itch.io)</a>
 
 <p float="left">
   <a href="https://itch.io/jam/iztech-hyperjam/rate/974266"><img src="https://i.imgur.com/3zOk9O1.png" width="300" /></a>
