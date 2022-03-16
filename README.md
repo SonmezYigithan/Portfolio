@@ -4,11 +4,10 @@
 * <a href="#Kill-The-Robots-AR">Kill The Robots AR</a></li>
 * <a href="#NEVER-ENDING-SURVIVAL">NEVER ENDING SURVIVAL</a></li>
 * <a href="#Burger-Refund">BurgerRefund</a></li>
-
   
 # Kill The Robots AR
 #### I made this game with 2 of my friends for the final project of the Game Programming Class at University.
-#### We used ARFoundation package for the AR framework.
+#### We used ARFoundation package for the AR framework. 
 
 ### I was responsible for 
 * Boss AI
@@ -16,12 +15,17 @@
 * Shooting Mechanic
 * Shooting and Enemy Movement Animation
 * UI Menu Design
+* Building Game For The Android And Testing
 
 <a href="https://play.google.com/store/apps?gl=TR" target="_blank">PLAY (Coming soon on Play Store)</a>
 
-# NEVER ENDING SURVIVAL
+<p float="left">
+  <img src="https://i.imgur.com/V6PTEHl.png" width="300" /></a>
+  <img src="https://i.imgur.com/JOHfPCO.png" width="300" /></a>
+  <img src="https://i.imgur.com/Lfs605D.png" width="300" /></a>
+</p>
 
-#Kill The Robots AR
+# NEVER ENDING SURVIVAL
 #### I made this game with 2 of my friends for the <a href="https://itch.io/jam/iztech-hyperjam/rate/974266" target="_blank"> IZTECH HyperJam Game Hackathon 2021 </a> 
 #### We used ARFoundation package for the AR framework.
 
@@ -30,6 +34,7 @@ I was responsible for
 <ul></ul>
 <ul>UI Menu Design</ul>
 
+## <a href="https://youtu.be/kKNkphkAlc8" target="_blank"> GAMEPLAY VIDEO </a>
 ## <a href="https://itch.io/jam/iztech-hyperjam/rate/974266" target="_blank">PLAY (itch.io)</a>
 
 <p float="left">
