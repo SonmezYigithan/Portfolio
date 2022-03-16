@@ -17,7 +17,7 @@
 * UI Menu Design
 * Building Game For The Android And Testing
 
-<a href="https://play.google.com/store/apps?gl=TR" target="_blank">PLAY (Coming soon on Play Store)</a>
+### <a href="https://play.google.com/store/apps?gl=TR" target="_blank">PLAY (Coming soon on Play Store)</a>
 
 <p float="left">
   <img src="https://i.imgur.com/V6PTEHl.png" width="300" /></a>
@@ -52,7 +52,7 @@
 
 ### All codes written by me
 
-## <a href="https://yellow-magic-studio.itch.io/burger-refund" target="_blank">PLAY (itch.io)</a>
+### <a href="https://yellow-magic-studio.itch.io/burger-refund" target="_blank">PLAY (itch.io)</a>
 
 <a href="https://yellow-magic-studio.itch.io/burger-refund"><img src="https://img.itch.zone/aW1hZ2UvNzcxMTQ2LzQzNDM3NzAuZ2lm/original/nM6ScO.gif" title="KutsalBurger" alt="KutsalBurger"></a>
 
