@@ -40,9 +40,9 @@ I was responsible for
 <a href="https://itch.io/jam/iztech-hyperjam/rate/974266"><img src="https://img.itch.zone/aW1hZ2UvOTc0MjY2LzU1MzI3OTEucG5n/original/Sc7Xu%2B.png" alt="Game Over"  style="float: left; width: 30%; margin-right: 1%; margin-bottom: 0.5em;"></a>
 
 <p float="left">
-  <img src="https://i.imgur.com/3zOk9O1.png" width="100" />
-  <img src="https://i.imgur.com/3zOk9O1.png" width="100" /> 
-  <img src="https://i.imgur.com/3zOk9O1.png" width="100" />
+  <img src="https://i.imgur.com/3zOk9O1.png" width="200" />
+  <img src="https://i.imgur.com/3zOk9O1.png" width="200" /> 
+  <img src="https://i.imgur.com/3zOk9O1.png" width="200" />
 </p>
 
 # Burger Refund
