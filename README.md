@@ -5,10 +5,6 @@
 * <a href="#NEVER-ENDING-SURVIVAL">NEVER ENDING SURVIVAL</a></li>
 * <a href="#Burger-Refund">BurgerRefund</a></li>
 
-### Prototypes
-* <a href="#Match-3D">Match 3D</a></li>
-
-
 # Visutate
 #### Visutate is a Augmented Reality Meditation App made with Unity
 #### My job is to develop immersive AR/VR Scenes using Unity Engine. I developed and optimized UI components and AR algorithms for mobile devices. I developed backend structures using Firebase Realtime Database, Cloud Functions, and Authentication.
@@ -74,12 +70,4 @@
 <a href="https://yellow-magic-studio.itch.io/burger-refund"><img src="https://img.itch.zone/aW1hZ2UvNzcxMTQ2LzQzNDM3NzAuZ2lm/original/nM6ScO.gif" title="KutsalBurger" alt="KutsalBurger"></a>
 
 <a href="https://yellow-magic-studio.itch.io/burger-refund"><img src="https://img.itch.zone/aW1hZ2UvNzcxMTQ2LzQzNDM3ODUuZ2lm/original/YGvLbh.gif" title="KutsalBurger" alt="KutsalBurger"></a>
-
-# Prototypes
-
-### Match 3D
-#### A Match 3D clone I'm currently working on
-
-<img src="https://i.imgur.com/LIt1wJL.png" title="Match3d">
-
 
