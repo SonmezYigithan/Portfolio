@@ -7,10 +7,9 @@
 
 # Visutate
 #### Visutate is a Augmented Reality Meditation App made with Unity
-#### My job is to develop immersive AR/VR Scenes using Unity Engine. I developed and optimized UI components and AR algorithms for mobile devices. I developed backend structures using Firebase Realtime Database, Cloud Functions, and Authentication.
 
 - Optimized and developed UI elements
-- Developed backend features with Firebase Realtime Database, Firebase Cloud Functions and Authentication.
+- Developed backend features and social components with Firebase Realtime Database, Firebase Cloud Functions and Authentication.
 - Developed Unity Editor tools
 - Designed AR Scenes with assets provided from Art Team
 
