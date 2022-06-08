@@ -1,6 +1,12 @@
 <h1 align="center">PORTFOLIO</h1>
 
-### Games
+<a href="resume">Click Here To View My Resume</a>
+
+### Hypercasual Prototypes and Clones
+* <a href="#Bridge-Race">Bridge Race</a></li>
+* <a href="#Picker-3D"></a>Picker 3D</li>
+
+### Games Jams and Personal Projects
 * <a href="#Kill-The-Robots-AR">Kill The Robots AR</a></li>
 * <a href="#NEVER-ENDING-SURVIVAL">NEVER ENDING SURVIVAL</a></li>
 * <a href="#Burger-Refund">BurgerRefund</a></li>
@@ -8,15 +14,15 @@
 # Visutate
 #### Visutate is a Augmented Reality Meditation App made with Unity
 
+- Designed AR Scenes with assets provided from Art Team
 - Optimized and developed UI elements
 - Developed backend features and social components with Firebase Realtime Database, Firebase Cloud Functions and Authentication.
 - Developed Unity Editor tools
-- Designed AR Scenes with assets provided from Art Team
 
 ### <a href="https://play.google.com/store/apps/details?id=com.Visutate.VisutateApp" target="_blank">Play Store</a>
 ### <a href="https://play.google.com/store/apps/details?id=com.Visutate.VisutateApp" target="_blank">App Store</a>
 
-  
+
 # Kill The Robots AR
 #### I made this game with 2 of my friends for the final project of the Game Programming Class at University.
 #### We used ARFoundation package for the AR framework. 
